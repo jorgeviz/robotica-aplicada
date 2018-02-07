@@ -1,0 +1,5 @@
+*.pyc
+/notas
+env/
+venv/
+__pycache__/
